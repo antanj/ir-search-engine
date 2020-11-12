@@ -1,0 +1,1867 @@
+Accessibility Links
+    
+        Skip to Main Content
+        Skip to Main Navigation
+        Skip to Footer
+    
+
+
+  
+
+                  
+
+    
+        
+            
+                
+            
+                            
+                    
+      Subscribe to BBC Science Focus Magazine
+      Previous Issues
+      Q&A
+      Join the Science Focus Book Club
+  
+                
+                        
+                
+    
+    
+		
+	
+	
+    	
+    		Sign In
+    	
+    	
+    		Register
+    	
+    
+    
+    	
+    
+        Sign In
+    
+    
+        Register
+    
+    
+
+
+
+	
+		
+	
+	
+		
+			 
+	Settings
+
+			
+				Sign out
+			
+		
+	
+	
+		
+			My account
+		
+	
+
+            
+        
+    
+
+       
+    
+        
+
+            
+                
+                
+            
+
+            
+                          
+                  
+                            
+    
+            
+        
+            
+                Sign up to our newsletters
+            
+        
+    
+
+    
+            
+              
+                    
+    
+
+
+    
+      
+        
+
+    
+        
+        
+    
+            
+    
+    
+
+    
+        
+            
+
+                
+                    
+    
+
+    
+
+                    
+                
+
+                
+    
+            
+        
+            
+                Search
+            
+        
+    
+
+    
+            
+        
+    
+
+    
+    
+
+        
+            
+                              
+                  
+                            
+    
+            
+        
+            
+                Sign up to our newsletters
+            
+        
+    
+
+    
+            
+                
+                            
+                                            
+                            Future Technology
+            
+        
+                                            
+                            Nature
+            
+        
+                                            
+                            Space
+            
+        
+                                            
+                            The Human Body
+            
+        
+                                            
+                            Everyday science
+            
+        
+                                            
+                            Planet Earth
+            
+        
+    
+            
+            
+            
+                
+                                            
+                            Subscribe to BBC Science Focus Magazine
+            
+        
+                                            
+                            Previous Issues
+            
+        
+                                            
+                            Q&A
+            
+        
+                                            
+                            Join the Science Focus Book Club
+            
+        
+    
+            
+        
+    
+
+      
+    
+    
+  
+
+  
+
+            
+    
+                                                                                
+    
+                                    
+                                        
+                        Home
+                    
+                    
+                
+                                                
+                                            
+                                        
+                        Space
+                    
+                    
+                
+                                                
+                    
+                    What is rocket science?
+                
+                        
+
+                                                        
+        
+            
+			
+			
+	
+	
+		
+					
+    
+        
+                                
+                    
+
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+
+
+        
+        
+        
+
+                
+This competition is now closed        
+            
+            
+        
+        
+                        
+            
+        
+    What is rocket science?
+
+    
+            
+            
+                            
+                        
+         Save 40% on an annual subscription to  BBC Science Focus Magazine
+    
+                
+                    
+    
+    
+        
+            
+            The theory behind blasting something into space isn’t as complicated as you might think. Putting it into practice, however, is a little bit trickier.
+        
+    
+    
+                        
+                            
+            
+
+    
+        
+
+    
+                    
+                By Brian Clegg
+            
+            
+
+
+    
+        29th September, 2020 at 20:14 
+                    
+            
+            
+    
+
+
+                        
+                                        
+                    
+
+
+
+
+            
+        
+                      
+              
+      Share on Facebook
+    
+  
+
+            
+                  
+      
+                
+        
+                      
+              
+      Share on Twitter
+    
+  
+
+            
+                  
+      
+                
+        
+                      
+              
+      Share on Whatsapp
+    
+  
+
+            
+                  
+      
+                
+        
+                      
+              
+      Share on Reddit
+    
+  
+
+            
+                  
+      
+                
+        
+                      
+              
+      Email to a friend
+    
+  
+
+            
+                  
+      
+                                                      
+
+      
+                
+                    
+    
+
+		
+		
+			
+				
+					
+					
+					
+																
+
+							
+							
+
+							
+															
+																			
+																					
+																	
+							
+																						
+									
+									Rocket science is all about using rocket propulsion to move anything from a firework to a manned spaceship.
+
+
+    Advertisement
+
+
+At the heart of rocketry is Isaac Newton’s Third Law of Motion, something that’s been established for over 300 years. It says that every action has an equal and opposite reaction. If you stand in front of a wall and push it hard, you will move backwards.
+Similarly, if you stand on a skateboard and throw a heavy object away from you as hard as you can (don’t try this at home), you’ll roll in the opposite direction. As you push an object forwards, the object pushes back on you with the same amount of force.
+
+
+
+
+In a rocket, the ‘object’ being pushed is the end product of burning fuel, which shoots out of the back of the rocket as the fuel burns, forcing the rocket to move in the opposite direction.
+Is rocket science complicated?
+Not at all. There are three basic requirements to a working rocket: get it moving, overcome the pull of gravity and plot a course. Each of these depends on physics that has been known since Newton’s day.
+Rocketry in empty space is easy, but on Earth we have to overcome our planet’s gravity. This is where a rocket is so much better than a cannon. Science fiction writer Jules Verne suggested using the latter to fire a shell containing three passengers to the Moon in the 19th Century.
+But a cannon has to get its payload up to the speed needed to leave Earth’s gravity – the escape velocity – by the time it leaves the barrel, because after that the only forces acting on it are gravity and air resistance, which both slow it down.
+
+    
+
+
+ French writer Jules Verne (1828 – 1905) © Getty Images
+
+The acceleration to get Verne’s shell to the required 11.2km per second would squish the passengers inside. But a rocket can accelerate more gently for as long as its fuel lasts, gradually climbing out of the Earth’s gravity.
+When it comes to plotting a course, once again, all we need is Newton’s physics, which allows us to understand how the flight path will be affected by the gravitational pulls of the Earth, the Sun and the Moon (the other planets will have influences too but these are small in a local flight), plus any ‘burns’ of the rocket engine.
+What makes successful rocketry so difficult isn’t so much the science as the engineering. There’s so much complex technology in a rocket that it’s incredibly tough to be sure that everything is going to work.
+So rocket science isn’t, erm, ‘rocket science’?
+No, but then not everyone can grasp the basics of physics.
+When, in 1920, American rocket pioneer Robert H Goddard said that a rocket from Earth could reach the Moon, The New York Times clearly failed to understand how rockets work.
+
+    
+
+
+ Apollo 11 takes off © Getty Images
+
+An editorial in the newspaper commented: “That Professor Goddard, with his ‘chair’ in Clark College and the countenancing of the Smithsonian Institution, does not know the relation of action to reaction, and of the need to have something better than a vacuum against which to react – to say that would be absurd. Of course he only seems to lack the knowledge ladled out daily in high schools.”
+Read more about rocket science:
+
+A history of rocket science
+Rocket science for beginners
+
+What the editorial missed is that a rocket doesn’t push against the atmosphere – it’s pushed by the burning fuel that shoots out of its back.
+The newspaper published a ‘correction’ in 1969, when Apollo 11 was on its way to the Moon, but never apologised for its mangling of Newton’s laws of physics and Goddard’s reputation.
+How do rockets work?
+All rockets work by the principle of throwing something out of the back to push the rocket forward, but exactly what that ‘something’ is can vary.
+One of the earliest known devices using rocket propulsion was the aeolipile, which was designed by Hero of Alexandria in the 1st Century AD. It used steam emerging from tubes to spin a metal ball.
+
+    
+
+
+ Hero of Alexandria, Greek physicist and mathematician, invented the first steam-powered ‘rocket’ device in the 1st century AD © Mary Evans
+
+Most rockets use flammable substances and it’s the energetic exhaust gases produced by burning them that provide thrust. Originally, such rockets were powered by gunpowder but more modern designs use either specialist solid fuel or gases like hydrogen, liquefied to maximise how much can be carried.
+Space rockets have to be able to work without air, so they need an oxidiser to play the role of the oxygen in the atmosphere. This might be liquid oxygen or other substances.
+The newest rocket technology is the ion drive or thruster. This is an electric-powered rocket, where charged particles (ions) are accelerated by an electric field to shoot out of the back of the rocket.
+Thrusters are most commonly used for steering rockets as they’re very precise but quite weak. However, they could provide the main propulsion for a rocket that was designed for use in deep space.
+How did rocket science begin?
+Apart from Greek steam rockets, the earliest rockets were produced for firework displays and as weaponry in China, where they date back at least to the 13th Century.
+Metal rockets for weapons began to be used in the West in the 19th Century. They were difficult to aim but provided an effective terror weapon and became popular for use from ships, as rockets have no recoil – unlike guns.
+It’s this kind of use that Francis Scott Key, author of the US national anthem, had in mind when he referred to the “rockets’ red glare”.
+Read more about space exploration:
+
+Move over, Mars: why we should look further afield for future human colonies
+NASA ‘pallet lander concept’ could be coming to a Moon near you soon
+
+When it came to space travel, rockets appeared in stories decades before they were practical.
+When the American establishment first began work on rocketry in the 1930s, the military is said to have found the whole concept too much like science fiction, so the development base in Pasadena, California was called the Jet Propulsion Laboratory, even though it never worked on jets, only rockets.
+Similarly, the rocket packs used to help aircraft take off from short runways were said to have ‘JATO’ (jet-assisted take-off) to avoid the ‘R’ word.
+
+    
+
+
+ A captured German V-2 rocket leaves an American launchpad, after the second World War © Getty Images
+
+Post-WWII space rockets of both the USA and the USSR were initially inspired by the German V-2 weapon. Its developer, Wernher von Braun, had little interest in the conflict but saw his work as a way to make his space travel dreams a reality.
+After the war, both superpowers developed missiles from the V-2, and the Atlas rockets used to get the first American astronauts into space were originally designed as intercontinental ballistic missiles. Even the Saturn V rocket used in the Apollo programme had a lineage that went back through the Jupiter series to Redstone missiles.
+Can rockets use oxygen from the atmosphere?
+Space rockets carry an oxidiser, such as oxygen or hydrogen peroxide, to enable fuel to burn in space. Yet for the first and hardest part of the launch, they are travelling through the atmosphere.
+If they could pick up oxygen as they went, it would significantly reduce the take-off weight. So it would be a huge advantage to use atmospheric oxygen while it’s available.
+
+    
+
+
+ SKYLON is currently in development and does not require a pilot. If successful, it will allow efficient aircraft-like access into space © NASA
+
+The problem is that it’s a massive technical challenge.
+In a hydrogen/oxygen rocket, like many used by NASA, the oxygen has to be compressed and cooled to around -140°C before it mixes with the hydrogen, which must take place in around 1/100th of a second, while avoiding ice blockages from moisture in the air.
+
+
+    
+        
+            
+                
+                     Get our daily LUNCHTIME GENIUS newsletter 
+                    
+                        Want to feel a little smarter while you snack on a sandwich? Our daily newsletter arrives just in time for lunch, offering up the day's biggest science news, our latest features, amazing Q&As and insightful interviews. PLUS a free mini-magazine for you to download and keep.
+                    
+                    
+                        
+                            Thanks! Look out for your Lunchtime Genius newsletter in your inbox soon.
+                        
+                                                    Already have an account with us? Sign in to manage your newsletter preferences
+                            
+                            
+                                
+                                    
+    
+            
+        
+            
+                Sign in
+            
+        
+    
+
+    
+                                
+                            
+                            
+                                
+                                    
+    
+            
+        
+            
+                Register
+            
+        
+    
+
+    
+                                
+                            
+                            
+                                            
+                
+            
+            
+                
+                    
+                        
+                            
+                                
+                                    
+
+
+                            
+
+                            
+                                
+                                    
+                                        
+    
+            
+        
+            
+                Sign me up!
+            
+        
+    
+
+    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+            
+                
+                    
+                        By entering your details, you are agreeing to BBC Science Focus Magazine terms and conditions. You can unsubscribe at any time.
+                    
+                
+            
+        
+    
+
+
+This has been achieved in the SABRE propulsion system that was built by the British company Reaction Engines. The hope is that this will soon be used in working rocket motors, designed for the SKYLON spaceplane.
+Why do big rockets have multiple stages?
+One of the biggest differences between the rockets of early science fiction and the actual ones that took people into space was that the real rockets had multiple stages that fell away as the rocket left Earth.
+This idea was first developed by Russian schoolteacher and rocket pioneer Konstantin Tsiolkovsky as early as 1903.
+
+    
+
+
+ Russia’s Soyuz MS-09 spacecraft carrying the members of the International Space Station (ISS) expedition © Getty Images
+
+The stages reflect the need to carry a lot of fuel to allow the rocket to escape Earth’s gravitational pull. When the fuel tanks are empty, they’re just extra mass that needs to be accelerated, wasting fuel.
+By dropping off a stage when its fuel is exhausted (or having disposable external tanks like the Space Shuttle), the remaining craft becomes much lighter, needing less fuel to accelerate it.
+Tsiolkovsky was a theorist and it was Goddard who constructed the first practical multi-stage experimental rockets.
+
+    
+
+
+ The International Space Station orbits at an altitude of around 354km (220 miles) © NASA
+
+Spacecraft returning to Earth use a combination of air resistance, wings (notably on the Space Shuttle) and parachutes to slow down the ship on re-entry, unlike most spaceships in science fiction, which land slowly under rocket power.
+Rockets are used for landing where there’s no air and relatively little gravity, such as on the Moon, but a ship simply can’t carry enough fuel to make a soft landing on Earth – it uses most of its fuel getting away in the first place.
+To return to the Earth with rockets would need some form of refuelling capability in space, which is not currently feasible.
+Where have rockets been used?
+We are familiar with rockets in firework displays and space vehicles but the military have made use of rocket technology in warfare for a long time, from early devices that were little more than metal bottle rockets to modern missiles and rocket-propelled grenades.
+Elsewhere, rockets have had a life-saving use in rescue flares, as a way of getting a line between ships to winch stranded sailors to safety, and in the ejector seats of military planes.
+
+    
+
+
+ James Bond (Sean Connery) makes a hasty jet-pack assisted getaway in Thunderball (1965) © EON Productions
+
+The jetpack used in the James Bond film Thunderball was more accurately a rocket pack, while rockets have also powered cars and sleds to record speeds. If you want a lot of thrust for a relatively short period of time, a rocket is often the best solution.
+Will we always use rockets?
+Some rockets, like ion drives, are always likely to be useful. But it would be ideal if we could replace rockets, both to get away from Earth and for the kind of long-term acceleration needed to make travel to the outer Solar System, or even other stars, commonplace.
+One alternative to rockets is the space elevator.
+This involves running an extremely long cable from a satellite down to Earth’s surface. A mechanical device would then be used to climb up it, hauling a payload into space. It’s a great concept as it would be much cheaper than rockets, and doesn’t need to carry its fuel.
+But we don’t have any materials strong enough to build a space elevator from Earth.
+
+    
+
+
+ Artist’s conception of the space elevator © Getty Images
+
+The cable would have to be nearly 38,000km long. A typical 28mm steel cable of this length, capable of supporting around 50 tonnes, would weigh 115,000 tonnes. In principle, though, we have materials strong enough to build a space elevator on the Moon.
+When it comes to deep space, we could replace some of the requirements for rockets with solar sails, which use the pressure of sunlight to gradually accelerate a vessel, or mass drivers, which are like external thrusters that push the whole ship.
+Read even more about space exploration and rocket science:
+
+How does the SpaceX Falcon compare with other rockets? 
+Why the first plant grown on the Moon is a significant milestone in space exploration
+Space travel affects heart cells, but only temporarily
+Space war: the new arms race above our heads
+
+But the most dramatic alternative, dreamt up in 1958, is to propel a ship by exploding tiny nuclear charges behind it, riding the shockwave.
+
+The original Project Orion had the motto “Mars by 1966, Saturn by 1970”. It was never built (in part because the original idea to use these nuclear charges for taking off from Earth was, to say the least, impractical).
+But the idea has been revisited in later concept spaceships. The huge advantage of nuclear fuel is that it compresses far more energy into a particular mass but the risks attached have so far made this approach impractical.
+
+
+    Advertisement
+
+
+
+This article first appeared in issue 287 of BBC Science Focus – find out how to subscribe here
+
+
+
+        Jargon buster
+Ballistic missile – One that starts under power, reaching a considerable height before dropping in freefall to its target. The V-2 was the first ballistic missile.
+Intercontinental ballistic missile (icbm) – Modern space rockets were mostly developed from the rockets designed to send nuclear missiles around the world.
+Ions – The ‘thruster’ or ‘ion drive’ uses ions as its reaction mass. Ions are atoms that have electrons removed or added and, as a result, have an electric charge that means they can be propelled by an electric field.
+Meganewtons (MN) – Newtons (N) are the standard unit of force. 1N is the force required to accelerate 1kg through 1m per second per second. The downward force on 1kg due to the Earth’s gravity is 9.81N. A meganewton is a million newtons.
+Reaction mass – The stuff thrown out of the back of a rocket to push it forward. In a traditional chemical rocket this is the exhaust gas from burning the fuel.
+Thrust – The amount of force generated by an engine to push a vehicle forwards, such as the force that is generated by a rocket motor.
+
+
+    
+
+    
+								
+							
+							
+							
+
+							
+							
+															
+																			
+																					
+																	
+							
+							
+														
+							
+																						
+									
+
+
+
+
+            
+        
+                      
+              
+      Share on Facebook
+    
+  
+
+            
+                  
+      
+                
+        
+                      
+              
+      Share on Twitter
+    
+  
+
+            
+                  
+      
+                
+        
+                      
+              
+      Share on Whatsapp
+    
+  
+
+            
+                  
+      
+                
+        
+                      
+              
+      Share on Reddit
+    
+  
+
+            
+                  
+      
+                
+        
+                      
+              
+      Email to a friend
+    
+  
+
+            
+                  
+      
+                                                      
+
+								
+							
+							
+							
+														
+								
+							
+
+							
+															
+									Authors
+																			
+																							
+													
+    
+    
+      
+        Brian Clegg
+      
+    
+          
+  
+												
+																					
+																	
+													
+					
+										
+					
+					    
+
+        Tags
+
+        
+                                                
+                        
+    
+    Engineering
+        
+    
+                    
+                                    
+                        
+    
+    Physics
+        
+    
+                    
+                                    
+                        
+    
+    Space exploration
+        
+    
+                    
+                                    
+    
+
+				
+
+								
+					
+    
+        
+
+        
+    
+    
+        
+            
+
+            
+            
+                                      
+                                                  
+        
+    
+    
+
+        
+                    
+                
+Pay by Direct Debit and get 40% off an annual subscription*
+Receive every issue delivered direct to your door with FREE UK delivery
+
+            
+        
+                    
+                
+    
+            
+        
+            
+                BUY NOW
+            
+        
+    
+
+    
+            
+          
+
+            
+    
+        
+            
+                
+                    Latest
+                                            
+                                                            
+                                    
+
+    
+        
+
+    
+
+        
+            
+    
+        
+            
+                        
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+        
+    
+
+
+        
+        
+
+                    
+            
+        
+            The Human Body
+        
+    
+    
+
+            
+
+        
+                Should I be worried if I don’t do 10,000 steps a day?
+    
+
+
+            
+            
+            
+        
+
+    
+
+    
+    
+    
+
+
+    
+                                
+                                                            
+                                    
+
+    
+        
+
+    
+
+        
+            
+    
+        
+            
+                        
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+        
+    
+
+
+        
+        
+
+                    
+            
+        
+            Science news
+        
+    
+    
+
+            
+
+        
+                Earth lost 60 per cent of its atmosphere during asteroid impact thought to have created the Moon
+    
+
+
+            
+            
+            
+        
+
+    
+
+    
+    
+    
+
+
+    
+                                
+                                                    
+                                    
+            
+        
+    
+        
+    
+    
+        
+
+        
+    
+
+				
+			
+		
+
+		
+			
+        
+            
+                
+                    You may like
+                                            
+                                                            
+                                    
+
+    
+        
+
+    
+
+        
+            
+    
+        
+            
+                        
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+        
+    
+
+
+        
+        
+
+                    
+            
+        
+            Space
+        
+    
+    
+
+            
+
+        
+                A history of rocket science
+    
+
+
+            
+            
+            
+        
+
+    
+
+    
+    
+    
+
+
+    
+                                
+                                                            
+                                    
+
+    
+        
+
+    
+
+        
+            
+    
+        
+            
+                        
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+        
+    
+
+
+        
+        
+
+                    
+            
+        
+            Space
+        
+    
+    
+
+            
+
+        
+                Rocket science for beginners
+    
+
+
+            
+            
+            
+        
+
+    
+
+    
+    
+    
+
+
+    
+                                
+                                                            
+                                    
+
+    
+        
+
+    
+
+        
+            
+    
+        
+            
+                        
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+        
+    
+
+
+        
+        
+
+                    
+            
+        
+            Space
+        
+    
+    
+
+            
+
+        
+                Are atoms expanding as the Universe expands?
+    
+
+
+            
+            
+            
+        
+
+    
+
+    
+    
+    
+
+
+    
+                                
+                                                            
+                                    
+
+    
+        
+
+    
+
+        
+            
+    
+        
+            
+                        
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+        
+    
+
+
+        
+        
+
+                    
+            
+        
+            Everyday science
+        
+    
+    
+
+            
+
+        
+                Leonardo da Vinci named as science’s greatest genius
+    
+
+
+            
+            
+            
+        
+
+    
+
+    
+    
+    
+
+
+    
+                                
+                                                    
+                                            
+                                                            
+                                    
+
+    
+        
+
+    
+
+        
+            
+    
+        
+            
+                        
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+        
+    
+
+
+        
+        
+
+                    
+            
+        
+            Space
+        
+    
+    
+
+            
+
+        
+                Could a bird fly in space if provided with oxygen?
+    
+
+
+            
+            
+            
+        
+
+    
+
+    
+    
+    
+
+
+    
+                                
+                                                            
+                                    
+
+    
+        
+
+    
+
+        
+            
+    
+        
+            
+                        
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+        
+    
+
+
+        
+        
+
+                    
+            
+        
+            Everyday science
+        
+    
+    
+
+            
+
+        
+                Six mind-blowing physics lessons from our new podcast series with Prof Jim Al-Khalili
+    
+
+
+            
+            
+            
+        
+
+    
+
+    
+    
+    
+
+
+    
+                                
+                                                            
+                                    
+
+    
+        
+
+    
+
+        
+            
+    
+        
+            
+                        
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+        
+    
+
+
+        
+        
+
+                    
+            
+        
+            Space
+        
+    
+    
+
+            
+
+        
+                Can you have a shock wave in space?
+    
+
+
+            
+            
+            
+        
+
+    
+
+    
+    
+    
+
+
+    
+                                
+                                                            
+                                    
+
+    
+        
+
+    
+
+        
+            
+    
+        
+            
+                        
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+
+        
+    
+
+
+        
+        
+
+                    
+            
+        
+            Everyday science
+        
+    
+    
+
+            
+
+        
+    
+    
+            
+        New Podcast
+    
+        Everything You Wanted To Know About…Physics with Jim Al-Khalili
+    
+
+
+            
+            
+            
+        
+
+    
+
+    
+    
+    
+
+
+    
+                                
+                                                    
+                                    
+            
+        
+    
+		
+
+		
+						
+		
+
+					
+    
+    
+            
+            
+            
+            
+        
+    
+		
+		
+	
+
+        
+    
+
+                        
+    
+        
+            
+    
+                    
+                
+                    
+                        
+                    
+                
+                
+                    Special offer
+                    Save 40% on an annual subscription
+                                            
+    
+            
+        
+            
+                SUBSCRIBE NOW
+            
+        
+    
+
+    
+                                    
+            
+                    
+                
+                    
+                        
+                    
+                
+                
+                    BBC Science Focus Special Editions
+                    Discover our latest special editions covering a range of fascinating topics from the latest scientific discoveries to the big ideas explained.
+                                            
+    
+            
+        
+            
+                ORDER NOW
+            
+        
+    
+
+    
+                                    
+            
+                    
+                
+                    
+                        
+                    
+                
+                
+                    Science Focus Podcast
+                    Listen to some of the brightest names in science and technology talk about the ideas and breakthroughs shaping our world. 
+                                            
+    
+            
+        
+            
+                LISTEN
+            
+        
+    
+
+    
+                                    
+            
+            
+
+
+
+    
+        
+            
+                
+                     Get our daily LUNCHTIME GENIUS newsletter 
+                    
+                        Our daily newsletter arrives just in time for lunch, offering up the day's biggest science news, our latest features, amazing Q&As and insightful interviews. PLUS a free mini-magazine for you to download and keep.
+                    
+                    
+                        
+                            Thanks! Look out for your Lunchtime Genius newsletter in your inbox soon.
+                        
+                                                    Already have an account with us? Sign in to manage your newsletter preferences
+                            
+                            
+                                
+                                    
+    
+            
+        
+            
+                Sign in
+            
+        
+    
+
+    
+                                
+                            
+                            
+                                
+                                    
+    
+            
+        
+            
+                Register
+            
+        
+    
+
+    
+                                
+                            
+                            
+                                            
+                
+            
+            
+                
+                    
+                        
+                            
+                            
+
+                                                            
+                            
+                            
+                                
+                                    
+
+                                
+                            
+
+                            
+                                
+                                    
+                                        
+    
+            
+        
+            
+                Sign me up!
+            
+        
+    
+
+    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+            
+                
+                    
+                        By clicking “sign up” you are agreeing to our terms and conditions. You can unsubscribe at any time. For more information about how to do this, and how Immediate Media Company Limited (publisher of Science Focus) holds your personal information, please see our privacy policy.
+                    
+                
+            
+        
+    
+
+        
+    
+
+
+    
+        Site footer
+
+        
+            
+                            
+                                            
+                            
+                                
+      Visit us on Facebook
+    
+  
+
+                            
+                        
+                                                                
+                            
+                                
+      Visit us on Pinterest
+    
+  
+
+                            
+                        
+                                                                
+                            
+                                
+      Visit us on Twitter
+    
+  
+
+                            
+                        
+                                                                                    
+                            
+                                
+      Visit us on YouTube
+    
+  
+
+                            
+                        
+                                                                
+                            
+                                
+      Visit us on Instagram
+    
+  
+
+                            
+                        
+                                                                
+                            
+                                
+      Subscribe to our RSS feed
+    
+  
+
+                            
+                        
+                                    
+                    
+
+                    
+
+            
+            Terms & Conditions
+        
+            
+            Privacy policy
+        
+            
+            Cookies policy
+        
+            
+            Code of conduct
+        
+            
+            Licensing
+        
+            
+            Magazine subscriptions
+        
+            
+            Contact Us
+        
+    
+            
+            
+                Manage cookies
+            
+        
+    
+        
+    
+
+    
+    
+        
+                            
+                    
+                        Immediate Media
+                    
+                
+            
+            
+                                    This website is published by Immediate Media Company Limited under licence from BBC Studios Distribution.
+                
+                                        © Immediate Media Company Ltd 2020.

@@ -1,0 +1,21 @@
+{
+  "name": "search-engine",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "main": "node --experimental-modules index.js"
+  },
+  "author": "Justas Antanaitis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "csv-parser": "^2.3.3",
+    "prompt-sync": "^4.2.0",
+    "string-strip-html": "^6.0.4",
+    "wink-lemmatizer": "^3.0.2",
+    "wordpos": "^2.0.0"
+  }
+}

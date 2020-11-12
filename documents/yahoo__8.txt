@@ -1,0 +1,294 @@
+Skip to main content
+  
+    
+      
+    
+  
+    
+  
+          
+  
+LOADING...      
+      
+    
+      
+        
+        
+  
+    
+                NASA's Do-It-Yourself Podcast: Rocket Science
+                        
+  
+                
+    
+      
+            
+  
+  
+    
+
+
+  
+
+  
+
+  
+      
+  
+  
+    Loading ...  
+
+  
+  
+
+  
+        Rocket Science Resources
+    
+  
+  
+     Audio/Video Clips
+	Download audio and video clips.
+
+ Images
+	Use images to transition between scenes.
+  
+
+  
+  
+
+  
+        STEM Disciplines Legend
+    
+  
+  
+    -- Science
+	
+	 -- Technology
+	
+	 -- Engineering
+	
+	 -- Mathematics
+  
+
+  
+  
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+      
+  
+  
+    Loading ...  
+
+  
+  
+  
+
+  
+
+
+  
+
+  
+
+  
+        In This Module
+    
+  
+  
+    Rocket science is based on basic science concepts such as Newton's Laws of Motion. Start your research here with the Rocket Science background information. More About Rocket Science has links to other NASA pages that explain rockets and rocket science.
+This module has audio or video clips of
+
+	
+		A rocket scientist explaining the basic concepts and safety of rocket science.
+	
+		Launches of different kinds of rockets.
+
+  
+  
+
+  
+  
+
+  
+        Get Started
+    
+  
+  
+    
+	
+		Preview video clips, audio clips and images under Rocket Science Resources on your left. Download the ones you want to include in your podcast.
+	
+		Write your script.
+	
+		Record your narration.
+	
+		Edit your podcast.
+	
+		Share your podcast with the world.
+
+  
+
+  
+  
+
+  
+        Rocket Science Background Information
+    
+  
+  
+    Have you heard the saying, "It's not rocket science?" Some people think rocket science is a difficult subject to understand. When someone says, "It's not rocket science," they mean that something is not too difficult. Rocket scientists are brilliant people, but rocket science is based on concepts you probably already understand. The same basic science concepts and laws work in both huge NASA rockets and small paper ones.
+
+	
+		
+			
+				Parts of a Rocket
+		
+		
+			
+				No matter the size, all rockets must have a body, a nose cone, fins and a propellant system. The body is the main section of the rocket. This section holds many of the electronics needed to control large rockets. The aerodynamic shape of the nose cone helps prevent air from slowing the rocket. The fins help guide the rocket to fly straight. Finally, the propellant system includes a mixture of fuel and a chemical called an "oxidizer" that gives off oxygen. The fuel and oxidizer burn together to launch the rocket off the ground.
+		
+		
+			
+				Forces on a Rocket
+		
+		
+			
+				When a rocket is in flight, four forces act on it: weight, thrust, and the two aerodynamic forces, lift and drag. The amount of the weight depends on the mass of all of the parts of the rocket. Thrust works the opposite of weight. The rocket's propulsion system causes thrust. Aerodynamics is the branch of science that explains the motion of air and the forces on bodies moving through the air. Lift is the aerodynamic force that works in a 90-degree angle to the direction of the flight. Lift is not as significant a force on a rocket as it is on an airplane. Drag is the aerodynamic force that works against the upward movement of the rocket.
+				
+				So, what is the science behind rockets?
+		
+		
+			
+				Newton's Laws
+		
+		
+			
+				Newton's Laws of Motion are important to rocket science.
+		
+		
+			
+				
+					Newton's Laws 
+			
+			
+				
+					Also Known As
+			
+			
+				
+					Description
+			
+		
+		
+			
+				
+					First law of motion
+			
+			
+				Law of inertia
+			
+				Objects at rest will stay at rest, and objects in motion will stay in motion in a straight line, unless acted upon by an unbalanced force.
+		
+		
+			
+				
+					Second law of motion
+			
+			
+				F=ma
+			
+				The force of an object equals its mass times its acceleration.
+		
+		
+			
+				
+					Third law of motion
+			
+			
+				Law of action and reaction
+			
+				For every action, there is an equal and opposite reaction.
+		
+		
+			
+				These three laws apply to rockets.
+				
+				First Law: A rocket will stay on the launch pad until a force blasts it off. Once in space, a rocket will continue to move unless retrorockets are fired to slow the rocket down.
+				
+				Second Law: The main forces acting on a rocket in flight are the weight of the rocket, thrust of the rocket engines, and drag as the rocket moves through the air. At any time, the sum of these forces is equal to the current mass of the rocket times the current acceleration of the rocket, or F=ma. The reason we say "current mass" is because as a rocket burns off its fuel, the mass of the rocket will decrease.
+				
+				Third Law: A rocket can lift off from a launch pad only when it expels gas from its engine. The rocket pushes against the gas, and the gas in turn pushes against the rocket. Thrust is the force that causes the rocket to lift. In space, rocket engines are usually called reaction engines because the law of reaction causes the spacecraft to move in a direction opposite to the direction of the engine's thrust plume, which is the expanding gas coming from the back of the rocket.
+		
+		
+			
+				Center of Gravity and Center of Pressure
+		
+		
+			
+				 A stable rocket has the center of pressure (cp) behind the center of gravity (cg). Image Credit: NASA For a rocket to fly in a straight path to its destination, the rocket must remain stable during flight. A stable rocket is one that flies in a smooth, uniform direction. An unstable rocket flies a crooked path, sometimes tumbling or changing direction. Unstable rockets are dangerous because it is not possible to predict where they will go. They may even turn upside down and suddenly head back directly to the launch pad.
+				
+				As a rocket flies, it rotates around a point called the center of gravity, or center of mass. The center of gravity is the point where an object can be perfectly balanced. Try this: Hold a pencil on the tip of your finger. Find the spot where the pencil is balanced and does not teeter. That point is the center of gravity. It is the average location of the weight of an object.
+				
+				The center of pressure is the average location of the drag forces. Because drag is an aerodynamic force, the center of pressure only exists when the air is flowing past a rocket in flight.
+				
+				For a rocket to be stable, the center of pressure must be behind the center of gravity. For a model rocket, you can make adjustments to make your rocket more stable. One way to make your rocket more stable is to increase the size of the fins or to move the fins more to the rear of the rocket. These actions will move the center of pressure rearward. Another way to improve the stability of the rocket is to add weight into the nose cone, which will move the center of gravity toward the front end of the rocket. Both methods work because they increase the distance between the center of gravity and the center of pressure.
+				
+				Larger, professional rockets have control systems to help them steer and remain stable. But rocket science is basically the same for all rockets. The principles used to build a model rocket, a paper rocket or a plastic bottle rocket are the same as those NASA uses to build rockets that carry humans and cargo into space.
+		
+	
+
+
+	
+		
+			
+				More About Rocket Science
+		
+		
+			
+				› What Is a Rocket?
+				› How Do Rockets Stack Up?
+				› Rocketry Image Gallery
+				› Rocketry Education Website
+				› Bottle Rocket Simulator
+		
+	
+
+ 
+  
+
+  
+  
+  
+
+  
+
+  
+
+
+
+  
+  
+  
+          
+    
+      
+    
+  
+      
+  
+    
+  
+      
+  LOADING...       
+          Page Last Updated: July 23rd, 2014
+      Page Editor: NASA Education
