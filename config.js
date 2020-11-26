@@ -1,5 +1,6 @@
 const config = {
-  lemmatize: true
+  lemmatize: true,
+  bigrams: true
 };
 
 module.exports = config;

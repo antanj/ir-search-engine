@@ -45,16 +45,29 @@ const collectWordsFromDocument = (fileName, config) => {
 
         return updatedItem.toLowerCase().trim();
       }).filter(item => !!item);
-      resolve(terms);
 
-      // fs.writeFile(
-      //   `test.txt`,
-      //   terms.join('\n'),
-      //   (err) => {
-      //     if (err) return console.log(err);
-      //     console.log(`Create test.txt`);
-      //   }
-      // );
+
+      if (config.bigrams) {
+        const bigrams = [];
+
+        terms.forEach((term, i) => {
+          if (i === 0) return;
+          bigrams.push(`${terms[i-1]} ${term}`);
+        });
+
+        resolve([...bigrams, ...terms]);
+
+        // fs.writeFile(
+        //   `test.txt`,
+        //   [...bigrams, ...terms].join('\n'),
+        //   (err) => {
+        //     if (err) return console.log(err);
+        //     console.log(`Create test.txt`);
+        //   }
+        // );
+      } else {
+        resolve(terms);
+      }
     });
   });
 };
@@ -95,6 +108,15 @@ const buildDocumentIndex = async (config = {}) => {
     });
   });
   console.log('...done.')
+
+  // fs.writeFile(
+  //   `index.json`,
+  //   JSON.stringify(precedenceIndex, null, 4),
+  //   (err) => {
+  //     if (err) return console.log(err);
+  //     console.log(`Create test.txt`);
+  //   }
+  // );
 
   return precedenceIndex;
 };
